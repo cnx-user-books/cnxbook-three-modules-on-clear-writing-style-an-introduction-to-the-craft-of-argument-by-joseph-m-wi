@@ -1,0 +1,196 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Writing Module One: Clear Narrative, “Characters” and “Actions”</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>5d3a8d76-390f-4023-870b-045c9d5ab85e</md:uuid>
+</metadata>
+  <content>
+    <section id="id-30431537433">
+      <title>The Importance of Story</title>
+      <para id="id9394584">Storytelling is fundamental. Since our earliest experiences listening to bedtime stories and fairy tales, we have instinctively sought out key information in narratives:</para>
+      <list list-type="bulleted" id="id9394592">
+        <item>Who is this about?</item>
+        <item>What is he or she doing?</item>
+        <item>Why?</item>
+      </list>
+      <para id="id6501160">In fact, all sentences tell stories. Although the format and details vary widely, professional and academic narratives are not nearly as different from fairy tales as they may first seem. In each case, our basic expectations for information and action operate in similar ways:</para>
+      <list list-type="bulleted" id="id6501169">
+        <item>we look for clear subjects as our new “characters”</item>
+        <item>we look for strong verbs as our new “actions.”</item>
+      </list>
+      <para id="id6501187">Stories work through structure. We understand story better when we can easily recognize <emphasis>characters</emphasis> and <emphasis>actions</emphasis>. Until we know what is happening and to whom, we are likely to feel lost</para>
+      <para id="id6501206">Story structure is apparent on both the sentence and the paragraph level. Whereas good storytelling makes important characters and actions clear from the outset, inadequate storytelling:</para>
+      <list list-type="bulleted" id="id9405632">
+        <item>takes a long time to convey a sense of what’s being described or explained;</item>
+        <item>doesn’t make the problem clear;</item>
+        <item>doesn’t give readers reasons to be invested in reading;</item>
+        <item>doesn’t offer a solution to the problems it dramatizes for the reader.</item>
+      </list>
+      <para id="id9405664">By contrast, fairy tale structure is an example of the type of narrative that readers find easy to understand because it satisfies <emphasis>certain fundamental expectations</emphasis>. If asked to retell a fairy tale, even very young children can tell us “who,” “what,” and even “why.” Complex professional prose can be this clear if it follows a few key principles.</para>
+      <section id="id-750824026585">
+        <title>Story and Professional Prose</title>
+        <para id="id9405688">Some of the same reasons we might cite for enjoying a movie or a novel also hold true for a scientific report or a legal argument. We are motivated to read, and we feel we understand the point of an argument, when we quickly grasp a) who is concerned and b) what is at stake. For example:</para>
+        
+        <example id="element-605"><para id="element-228">
+The suggestion of recent evidence has been a role for nanobacteria in a growing number of human diseases, including renal stone formation, cardiovascular diseases, and cancer. Promoted by this large body of research studies is the view that nanobacteria are not only alive but that they are associated with disease pathogenesis. (Martel and Young, 5549)
+</para>
+</example><para id="id6486663">Contrast with:</para>
+        
+        <example id="element-276"><para id="element-927">
+Recent evidence [noun] suggests [verb] a role for nanobacteria in a growing number of human diseases, including renal stone formation, cardiovascular diseases, and cancer. This large body of research studies [noun] promotes [verb] the view that nanobacteria are not only alive but that they are associated with disease pathogenesis. (Martel and Young, 5549)
+</para>
+</example><para id="id6486678">In the example above, a few simple improvements lead to a much more readable statement of the problem. Notice how the published sentences</para>
+        <list list-type="bulleted" id="id6486685">
+          <item>lead with a clear subject</item>
+          <item>follow immediately with a descriptive verb.</item>
+        </list>
+        <para id="id6486698">The parts of the sentence that satisfy the reader’s basic needs are strongly positioned to give them the information they need as quickly and concisely as possible. The character, “recent evidence,” and the action, “suggests” appear within the first three words of the first sentence. Similarly, the second sentence begins right away with the character “this large body of research studies,” and follows up immediately with the verb “promotes” to describe the action of those studies. We know the main characters and actions RIGHT AWAY, and we are able to grasp the important subject and activity that the sentence describes without searching around for clues.</para>
+      </section>
+    </section>
+    <section id="id-648110234538">
+      <title>Characters and Actions- Structuring Information, Managing Expectations</title>
+      <para id="id9439292">In talking about sentences that tell stories, we’ve already begun to realize the importance of two key terms—Character and Action. We understand narrative best when it is easy to identify the important characters and actions (and along with them, the important subject and verb of the sentence). The character is the main subject or “doer” in your sentence.” (Remember: It is not always a person). The action is the thing done. Usually, the action is the verb. All too frequently we bury the most important action in nominalizations. We’ll discuss nominalizations in more detail a little later on. For now, it requires no special terminology to see how, in order to make it easy for readers to understand your writing, you should:</para>
+      <list list-type="bulleted" id="id9439323">
+        <item>match important actions to VERBS; and</item>
+        <item>make important characters into SIMPLE SUBJECTS (see Style 33).</item>
+      </list>
+      <para id="id9439338">These crucial alignments often dictate changes in the order in which characters and actions appear in a sentence. Instead of: </para>
+      <para id="id9439342">“Our loss of funding prevented continuation of the research program.”</para>
+      <para id="id9656080">We can write:</para>
+      <para id="id9656084">“Because <emphasis>we</emphasis> lost funding, <emphasis>we</emphasis> could not continue the research program.”</para>
+      <para id="id9656101">In the first sentence, “loss” and “continuation” are used as nouns instead of describing what the main character does through the more active “we lost” and “we could not continue” (see Style 36).</para>
+      <section id="id-159759081266">
+        <title>Choose Concrete Characters Over Abstract</title>
+        <para id="id9656119">Notice how difficult it can be to identify the main characters and actions in an introductory sentence:</para>
+        <para id="id9656125">Shifts in position in recent decades in three bands of fast-moving wind known as jet streams came from a new analysis of weather data that were collected between 1979 and 2001.</para>
+        <para id="id9656132">Here, by leading with “Shifts in position,” an author would effectively emphasize “shifts” as the main character of the sentence. Similarly, the verb that modifies “shifts,” “came,” appears as the main action of the statement (see Craft 244). Compare this to the sentence as it actually appeared in publication:</para>
+        <para id="id9656137">“<emphasis>Three bands of fast-moving wind </emphasis>— known as jet streams — have shifted position in recent decades, according to a new analysis of weather data that were collected between 1979 and 2001” (“Atmospheric science: Jetting away”). </para>
+        <para id="id6491914">Notice how the important subjects and verbs a) appear early, and b) occur close to each other (see Craft 244).</para>
+      </section>
+    </section>
+    <section id="id-815021490424">
+      <title>Applying the Lessons of Story- The Sentence Level</title>
+      <para id="id6491930">Readers expect for sentences to deliver information using a certain predictable structure. When writers fulfill readers’ expectations, they make it easy for them to process important pieces of information efficiently and effectively. What if it isn’t immediately clear what your main subject should be? Ask yourself what the most important action of the sentence really is. Now determine who or what is responsible for that action. </para>
+      <para id="id6491948">When you put your main character first, you give the reader essential information about the main actors in the drama they will be asked to follow. You also create a context in which the reader can understand what you will go on to say about that character.</para>
+      <section id="id-604271376571">
+        <title>On Characters and Actions</title>
+        <para id="id6491964">In an ideal world, the subject of your sentence will be its main character, and the action of your sentence will be the main verb. Why is this so important? When these two things don’t line up, readers experience certain negative effects of the mismatch.</para>
+        <list list-type="bulleted" id="id6491968">
+          <item>Readers will judge your prose to be indirect, abstract, complex, dense, and unclear</item>
+          <item>Readers have to work harder to translate your words into a story that they can remember</item>
+          <item>Readers will have to fill in any missing story elements from their own knowledge</item>
+          <item>Readers are more likely to interpret your sentence in a way you did not expect or want</item>
+        </list>
+        <para id="id6491733">(<cite><cite-title>LRS 2008 Curriculum</cite-title></cite>, Actions)</para>
+      </section>
+      <section id="id-65074992101">
+        <title>Clear Sentences</title>
+        <para id="id6491752">Easy-to-understand sentences are not the product of some subtle mystery. We prefer them because we can recognize their key information:</para>
+        <list list-type="bulleted" id="id6491760">
+          <item>“As <emphasis>John</emphasis> [character] <emphasis>remarked</emphasis> [action] earlier...”</item>
+          <item>“As <emphasis>Mary</emphasis> [character] <emphasis>argued</emphasis> [action] … ”</item>
+          <item>“As <emphasis>our results</emphasis> [character] <emphasis>demonstrate</emphasis> [action]… ”</item>
+        </list>
+        <para id="id6506538">This is not to say that your main character must always be the subject of your sentence, or that character’s action is always represented by the verb. However, if readers find your writing confusing or unclear, it’s a safe bet that one of these things is throwing them off. If your most important character is not the main subject of your sentence, and if that character’s most important action is not represented by the sentence’s main verb, a good first step is to locate each of these and align them with one another!</para>
+      </section>
+    </section>
+    <section id="id-831079949172">
+      <title>Choosing Characters and Emphasizing Actions</title>
+      <para id="id6506565">Achieving optimal placement of characters and actions in your sentences is as much about diagnosis and revision as it is about drafting or composition. As Joseph Williams explains in Style: <cite><cite-title>Ten Lessons in Clarity and Grace</cite-title></cite>, to transform characters into subjects, you have to know three things:</para>
+      <list list-type="enumerated" id="id6500667">
+        <item>When you haven’t;</item>
+        <item>Where to look (for characters); and</item>
+        <item>What to do when you find them (or when you don’t) (Style 53).</item>
+      </list>
+      <para id="id6500689">Williams and Colomb present a step-by-step system for finding and relocating characters. They teach us to</para>
+      <list list-type="bulleted" id="id6500695">
+        <item>Skim the first seven or eight words;</item>
+        <item>Identify the main characters;</item>
+        <item>Locate actions involving those characters;</item>
+        <item>Organize your new subjects and verbs into a sentence using conjunctions such as if, although, because, when, how, and why (Style 53-54).</item>
+      </list>
+      <para id="id6500722">We’ll walk through the process using an example here.</para>
+      <section id="id-407228267527">
+        <title>Step One: Skim the first seven or eight words.</title>
+        <para id="id6500736"><emphasis>The introduction of a novel thermal convection cell</emphasis> consisting of half a soap bubble heated at the equator enables the study of thermal convection and the movement of isolated vortices. <emphasis>Development of thermal convection</emphasis> at its equator is noted in the soap bubble, which is subject to stratification.</para>
+      </section>
+      <section id="id-106946799441">
+        <title>Step Two: Identify the main characters</title>
+        <para id="id6500489">The introduction of <emphasis>a novel thermal convection cell</emphasis> consisting of half a soap bubble heated at the equator enables the study of thermal convection and the movement of isolated vortices. Development of thermal convection at its equator is noted in <emphasis>the soap bubble</emphasis>, which is subject to stratification.</para>
+      </section>
+      <section id="id-356876919323">
+        <title>Step Three: Locate actions involving those characters</title>
+        <para id="id6500519">The introduction of <emphasis>a novel thermal convection cell</emphasis> consisting of half a soap bubble heated at the equator enables the study of thermal convection and the movement of isolated vortices. Development of thermal convection at its equator is noted in <emphasis>the soap bubble</emphasis>, which is subject to stratification. </para>
+        <para id="id6500538">Above, the main characters are hard to identify, buried among other nouns and not clearly emphasized as the “doers” of the actions.</para>
+      </section>
+      <section id="id-324515643654">
+        <title>Step Four: Organize your new subjects and verbs so that the actions are expressed in verbs.</title>
+        <para id="id6506313">Introductionbecomesto introduce</para>
+        <para id="id6506324">Developmentbecomesto develop</para>
+        <para id="id6506334">In the published version from which our less elegant example was derived, the main characters appear early and are described by the main verbs:</para>
+        <para id="id6506341">“<emphasis>A novel thermal convection cell </emphasis>consisting of half a soap bubble heated at the equator is introduced to study thermal convection and the movement of isolated vortices. <emphasis>The soap bubble</emphasis>, subject to stratification, develops thermal convection at its equator” (Seychelles, F., et al.). </para>
+      </section>
+    </section>
+    <section id="id-320268670595">
+      <title>Naming a Problem: Nominalizations</title>
+      <para id="id6506373">Nominalizations are abstract nouns that are derived from either verbs or adjectives.</para>
+      <para id="id6506986">They often end in suffixes like -tion, -ment, -ence, among others. For example, calculation (from ‘to calculate’), finding (from ‘to find’), and dependent (from ‘to depend’) (Style 36).</para>
+      <table id="id6506998" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Verb &lt; Nominalization</entry>
+              <entry>Adjective &lt; Nominalization</entry>
+            </row>
+            <row>
+              <entry>DISCOVER &lt; Discovery</entry>
+              <entry>CARELESS &lt; Carelessness</entry>
+            </row>
+            <row>
+              <entry>RESIST &lt; Resistance</entry>
+              <entry>DIFFERENT&lt; Difference</entry>
+            </row>
+            <row>
+              <entry>REACT &lt; Reaction</entry>
+              <entry>PROFICIENT&lt; Proficiency (see Style 36)</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id6506175">
+      <para id="id6506180">Your Turn:</para>
+      <para id="id6506012">As you read the following example, ask yourself:</para>
+      <list list-type="bulleted" id="id6506018">
+        <item>How quickly are you able to identify characters and actions?</item>
+        <item>What makes it easy or difficult?</item>
+      </list>
+      <para id="id6506033">“There is disagreement among many experts about the utility of emissions cap-and-trade policies.”</para>
+      <para id="id6506039">Now notice how much easier it is to understand the sentence when we change the order of the main characters and verbs to read:</para>
+      <para id="id6506046">“<emphasis>Experts </emphasis>[important character/”doer”] <emphasis>disagree</emphasis> [important verb] about whether <emphasis>emissions cap-and-trade policies</emphasis> [second important character] are useful.” [a verb and an adjective replace the nominalization “utility”]</para>
+      <para id="id6506073">Similarly, observe how it clarifies the sentence when we take a nominalization like:</para>
+      <para id="id6506079">“Our<emphasis> request</emphasis> [noun/nominalization]<emphasis> is</emphasis> [weaker verb] that you review the data.”</para>
+      <para id="id6499010">And change it to:</para>
+      <para id="id6499014">“<emphasis>We</emphasis> [subject/character] <emphasis>request</emphasis> [stronger verb] that you review the data.”</para>
+      <section id="id-833014420731">
+        <title>The Bottom Line-Writing for the Reader</title>
+        <para id="id6499039">In order to make your sentences clear and easy to understand, align the main character and action with the main subject and verb.</para>
+        <para id="id6499046"/>
+        <para id="id6499058">The moral of the story is: Make sure readers get the story! Characters and actions should</para>
+        <para id="id6499064">occur early in the sentence. Whenever possible, character and action should correspond with subject and verb. Target and eliminate nominalizations to ensure precise, descriptive verbs, and highlight characters and actions to add impact and increase understanding.</para>
+        
+      </section>
+<para id="id6499073">
+          <term>Examples taken or adapted from:</term>
+        </para>
+        <list list-type="bulleted" id="id6499199">
+          <item>“Atmospheric science: Jetting away.” <cite><cite-title>Nature,</cite-title></cite> Vol. 453, No. 7191. (1 May 2008): 5-5. doi:10.1038/453005c. Retrieved 5/6/2008 from <link url="http://www.nature.com/nature/journal/v453/n7191/full/453005c.html">http://www.nature.com/nature/journal/v453/n7191/full/453005c.html</link></item>
+          <item>Martel, J. and John D. Young. “From the Cover: Purported Nanobacteria in Human Blood as Calcium Carbonate Nanoparticles.” <cite><cite-title>Proceedings of the National Academy of Sciences, </cite-title></cite>Vol. 105, No. 14. (8 April 2008): 5549-5554. Retrieved 5/6/2008 from <link url="http://www.pnas.org/cgi/content/abstract/105/14/5549">http://www.pnas.org/cgi/content/abstract/105/14/5549</link>. </item>
+          <item>Seychelles, F.,Y Amarouchene, M Bessafi, and H Kellay.“Thermal Convection and Emergence of Isolated Vortices in Soap Bubbles.” <cite><cite-title>Physical Review Letters</cite-title></cite>, Vol.100, No. 14. (2008). Retrieved 5/6/2008 from <link url="http://scitation.aip.org/getabs/servlet/GetabsServlet?prog=normal&amp;id=PRLTAO00100000014144501000001&amp;idtype=cvips&amp;gifs=yes%20">http://scitation.aip.org/getabs/servlet/GetabsServlet?prog=normal&amp;id=PRLTAO00100000014144501000001&amp;idtype=cvips&amp;gifs=yes </link></item>
+          <item>Williams, Joseph. <cite><cite-title>Style: Ten Lessons in Clarity and Grace.</cite-title></cite> 8th ed. New York: Longman,2005.</item>
+          <item>Williams, Joseph and Colomb, Gregory. <cite><cite-title>The Craft of Argument</cite-title></cite>. Concise Ed. New York: Longman, 2003.</item>
+        </list>
+    </section>
+
+  </content>
+</document>
